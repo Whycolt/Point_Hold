@@ -1,6 +1,6 @@
 import java.applet.Applet;
 
-public class Main extends Applet{
+public class Point_Hold extends Applet{
 	/**
 	 * 
 	 */
